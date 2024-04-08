@@ -13,3 +13,5 @@ http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://live.fanmingming.com/tv/三立新闻.png" group-title="新闻",三立新闻
 https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://i.imgur.com/nLTPKdy.png" group-title="新闻",东森新闻
+https://cdn.ggapk.net/live/tv?id=ba88YcsRaY8Cl6zYH5fSiZfMQSJsi1PjDoH45WOY7AcmfBvULS_acuYfU2_h--2m4GKf1XC7Z67VQ8D05VEPBAFkGymHqCrLOhFb91eBk2KTdZsCNP88TM7LY0aq2G3evaiZuw4fpQVCWqO3iHuEwOiaGKER2qDXU3vdgWJLlzL5&idp=aa08JW-JDTu1kYJpnv1p5gOE6oQuyyhlLqU471uTv41dAC-Wxeu192W_
