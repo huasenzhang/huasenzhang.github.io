@@ -15,3 +15,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://i.imgur.com/nLTPKdy.png" group-title="新闻",东森新闻
 https://cdn.ggapk.net/live/tv?id=06e0uNDMCue843ihyrI79eY0iLqUxxb6_HgUBEEjs2xC5nUWl87ckq1G7ys-6Yrb1CHo5mpjsvGMWppml5mmtD9bK0qlhvNmdVQoMw4ubvyXJV-iUH7dD2r6Xg8v2ZCLX1ybHOqgT5GzXaNmtMLEZHsesvB2OXuKy8II29OO73vT&idp=ac4bB2SOM17Lg2gyh8nm2k1oQy9MiwRq-_MVUVDmC70tnA4GLx_DbiXr
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="新闻",凤凰资讯
+https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="新闻",凤凰中文
+http://210.210.155.37/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
