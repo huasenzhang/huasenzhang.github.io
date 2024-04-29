@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="民视新闻HD" tvg-name="民视新闻HD" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="新闻",民视新闻HD
-http://50.7.238.114:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-id="台视新闻HD" tvg-name="台视新闻HD" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="新闻",台视新闻HD
-
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="新闻",中天新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻HD" tvg-name="TVBS新闻HD" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻HD.png" group-title="新闻",TVBS新闻HD
 http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="新闻",TVBS
