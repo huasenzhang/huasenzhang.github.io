@@ -1,25 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-id="民视新闻HD" tvg-name="民视新闻HD" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="新闻",民视新闻HD
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-id="台视新闻HD" tvg-name="台视新闻HD" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="新闻",台视新闻HD
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="新闻",中天新闻
-http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
-#EXTINF:-1 tvg-id="TVBS新闻HD" tvg-name="TVBS新闻HD" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻HD.png" group-title="新闻",TVBS新闻HD
-http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="新闻",TVBS
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://i.imgur.com/寰宇.png" group-title="新闻",寰宇新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://i.imgur.com/nLTPKdy.png" group-title="新闻",东森新闻
-http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
-#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://live.fanmingming.com/tv/三立新闻.png" group-title="新闻",三立新闻
-https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
-#EXTINF:-1 tvg-id="东森财经" tvg-name="东森财经" tvg-logo="https://i.imgur.com/nLTPKdy.png" group-title="新闻",东森财经
-http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
-#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://i.imgur.com/nLTPKdy.png" group-title="新闻",东森电影
-http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="新闻",凤凰资讯
-https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
+https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="新闻",凤凰中文
-http://210.210.155.37/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
+https://edge2.laotv.la/live/PhxChinese/index.m3u8
