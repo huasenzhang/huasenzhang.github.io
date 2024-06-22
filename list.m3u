@@ -1,6 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="新闻",中天新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718923866/ei/-l10ZtLoB5Ow2roP2fyLkAE/ip/141.98.75.234/id/oIgbl7t0S_w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f61cM2sZTSO7dMC4q4cuL3rSkR6Ins8ZbcZPWWUMolJXm33KUwW7gmsKMa22uqXUEU-SwCVK/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMi-7FxHAekriaELUa2onRTxTOzhr10cf8vUn4F_WvPGAiATqmqcNVjWT2ux4Ar2_p7a4hR9TeHVdAkpRPESPsaJ5A%3D%3D/file/index.m3u8#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://i.imgur.com/寰宇.png" group-title="新闻",寰宇新闻 
+http://194.87.101.118/live.m3u8?c=7
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://i.imgur.com/寰宇.png" group-title="新闻",寰宇新闻 
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8 
 #EXTINF:-1 tvg-id="台视新闻HD" tvg-name="台视新闻HD" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="新闻",台视新闻HD 
 https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
